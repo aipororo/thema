@@ -1,8 +1,8 @@
 # Theme
 JANGAN DIJUAL BELAKAN YE BWANG !!!
 BUTUH LICENSE/PW CHAT TELE GUA
->> t.me/fadhost <<
+>> t.me/Rudiii09<<
 
 Comand Run Install Thema
 
-bash <(curl https://raw.githubusercontent.com/gitfdil1248/thema/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/aipororo/thema/main/install.sh)
